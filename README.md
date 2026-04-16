@@ -18,7 +18,7 @@ Projeto de uma livraria online desenvolvido para permitir que usuários naveguem
 ## 🛠️ Tecnologias Utilizadas
 
 * **Frontend:** HTML, CSS, JavaScript (ou React, Vue, etc.)
-* **Backend:** Node.js / Python / Java (ajuste conforme seu projeto)
+* **Backend:** Node.js / Python / Java
 * **Banco de Dados:** MySQL / PostgreSQL / MongoDB
 * **Outros:** API REST, JWT para autenticação
 
